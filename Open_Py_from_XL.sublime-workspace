@@ -1,0 +1,457 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"obyava\tstatement"
+			],
+			[
+				"max",
+				"max_ro\tstatement"
+			],
+			[
+				"cre",
+				"create_sheet\tfunction"
+			],
+			[
+				"get",
+				"get_sheet_by_name\tfunction"
+			],
+			[
+				"ge",
+				"get_sheet_names\tfunction"
+			],
+			[
+				"op",
+				"openpyxl\tmodule"
+			],
+			[
+				"i",
+				"iter_content\tfunction"
+			],
+			[
+				"co",
+				"comic_elem\tstatement"
+			],
+			[
+				"se",
+				"select\tfunction"
+			],
+			[
+				"re",
+				"raise_for_status\tfunction"
+			],
+			[
+				"ex",
+				"exist_ok\tparam"
+			],
+			[
+				"fo",
+				"foldern"
+			],
+			[
+				"sh",
+				"shelfFile"
+			],
+			[
+				"c",
+				"compile"
+			],
+			[
+				"ha",
+				"hash_file"
+			],
+			[
+				"tx",
+				"txt_files"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"p",
+				"print_lists"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"dat",
+				"date_shet"
+			],
+			[
+				"ls_",
+				"ls_vagons_files"
+			],
+			[
+				"retu",
+				"return_column_from_excel"
+			],
+			[
+				"s",
+				"states_covered"
+			],
+			[
+				"st",
+				"states_needed"
+			],
+			[
+				"non",
+				"None"
+			],
+			[
+				"pr",
+				"prostoe"
+			],
+			[
+				"w",
+				"wih"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"ra",
+				"raz"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"e",
+				"Enemy"
+			],
+			[
+				"t",
+				"try\tTry/Except"
+			],
+			[
+				"el",
+				"elm"
+			],
+			[
+				"r",
+				"resultsM"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"Dat",
+				"DateTime"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "installP",
+		"selected_items":
+		[
+			[
+				"installP",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 407.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/BI/farpost/tomas.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/del.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/test.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/Open_Py_from_XL.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/refresh_produkt.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/MyFunctions.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/print_list_of_lists.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/bs4.py",
+		"/C/BI/Glinozem/list_sobstvenik.py",
+		"/C/BI/Glinozem/suitable",
+		"/Y/Остапченко/python/Avtomamatizatsia/save_img_from_site.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/Новая папка/del.py",
+		"/C/Users/Disp.Smen/Desktop/del.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/find_text_in_file.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/test.html",
+		"/C/Users/Disp.Smen/Desktop/лист собственник.lnk",
+		"/C/Users/Disp.Smen/Desktop/OpenPyXL.py",
+		"/C/Users/Disp.Smen/Desktop/readCensusExcel.py",
+		"/C/Users/Disp.Smen/Desktop/census2010.py",
+		"//alphas/DISP/Остапченко/BI/книги/automate_online-materials/readCensusExcel.py",
+		"/C/Users/Disp.Smen/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Disp.Smen/Downloads/myFile.txt",
+		"/C/BI/IT/книги/automate_online-materials/lucky.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/logging.py",
+		"/C/Users/Disp.Smen/Desktop/myLog.txt",
+		"/C/Users/Disp.Smen/Desktop/factorialLog.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/zip_backup.py",
+		"/C/BI/Glinozem/vagons.py",
+		"/C/BI/IT/книги/automate_online-materials/stopwatch.py",
+		"/C/BI/IT/книги/automate_online-materials/mouseNow.py",
+		"/C/BI/IT/книги/automate_online-materials/coinFlip.py",
+		"/C/BI/IT/книги/automate_online-materials/quickWeather.py",
+		"/C/Users/Disp.Smen/Desktop/test.py",
+		"/Y/Остапченко/python/Avtomamatizatsia/shelve.py",
+		"/C/Users/Disp.Smen/Desktop/myCats.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/del.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/email_&_tel.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/re.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/path.py",
+		"/C/BI/Glinozem/hash",
+		"/C/BI/Glinozem/run.py",
+		"/C/Users/Disp.Smen/Desktop/email_&_tel.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/email_&_tel.txt",
+		"/C/Users/Disp.Smen/Desktop/client.py",
+		"//alphas/DISP/Остапченко/пыль.py",
+		"/C/Users/Disp.Smen/Desktop/пыль.py",
+		"//alphas/DISP/Остапченко/python/podhod.py",
+		"/C/Users/Disp.Smen/Desktop/гз/list_sobstvenik.py",
+		"/C/Users/Disp.Smen/Desktop/пыль - копия.py",
+		"/C/Users/Disp.Smen/Desktop/гз/vagons.py",
+		"//alphas/DISP/Остапченко/python/test/map_filter_lambda.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/cmd_arg.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/clip_board.py",
+		"//alphas/DISP/Остапченко/python/Avtomamatizatsia/print_list_of_lists.py",
+		"//alphas/DISP/Остапченко/python/is_sort.py",
+		"/C/BI/IT/книги/automate_online-materials/torrentStarter.py",
+		"//alphas/DISP/Остапченко/python/del.py",
+		"/C/BI/IT/книги/automate_online-materials/downloadXkcd.py",
+		"/C/Users/Disp.Smen/Downloads/podposledovatelnost.py",
+		"//Alphas/гут-2/СДАЧА СМЕНЫ ГУТ-2/чек лист/АРХИВ СВОДНЫЕ/Подачи 30-12-2018 1 смена.pdf",
+		"//Alphas/гут-2/СДАЧА СМЕНЫ ГУТ-2/чек лист/АРХИВ СВОДНЫЕ/СВОДНАЯ 30-12-2018 1 смена.pdf",
+		"//alphas/DISP/Остапченко/python/Mail-Coursera/utils.py",
+		"//alphas/DISP/Остапченко/python/Mail-Coursera/test.py",
+		"//alphas/DISP/Остапченко/python/Mail-Coursera/main.py",
+		"/C/Users/Disp.Smen/Desktop/доклад1.xlsx",
+		"//alphas/DISP/Остапченко/python/NumPy/test.py",
+		"//alphas/DISP/Остапченко/python/Mail-Coursera/import test.py",
+		"//alphas/DISP/Остапченко/python/Грокаем Алгоритмы/logic.py",
+		"/C/Users/Disp.Smen/Downloads/dust.py",
+		"/C/Users/Disp.Smen/Downloads/Hello.py",
+		"/C/Users/Disp.Smen/Desktop/пыль1.py",
+		"//alphas/DISP/Остапченко/пыль3.py",
+		"/C/Users/Disp.Smen/Desktop/пыль t.py",
+		"/C/Users/Disp.Smen/Desktop/server.py",
+		"/C/Users/Disp.Smen/Desktop/users.txt",
+		"//alphas/DISP/Остапченко/python/socket/client.py",
+		"//alphas/DISP/Остапченко/python/klines/klines_binance.py",
+		"//alphas/DISP/Остапченко/python/socket/server.py",
+		"/C/Users/Disp.Smen/Desktop/пыль telegram.py",
+		"//alphas/DISP/Остапченко/гж/podhod.py",
+		"//alphas/DISP/Остапченко/python/socket.py",
+		"//alphas/DISP/Остапченко/python/test/gcd.py",
+		"/C/Users/Disp.Smen/Desktop/Очистка  угля от металла за 2018.xls",
+		"//alphas/DISP/Остапченко/python/test/nod.py",
+		"//alphas/DISP/Остапченко/python/пыль/otchet.py",
+		"/C/Users/Disp.Smen/Desktop/в.py",
+		"//alphas/DISP/Остапченко/гж/вапвап.py",
+		"/C/Users/Disp.Smen/Desktop/Новая папка/podhod.py",
+		"//alphas/DISP/Остапченко/python/пыль/excel.py",
+		"//alphas/DISP/Остапченко/python/пыль/podhod.py",
+		"//alphas/DISP/Остапченко/python/Грокаем Алгоритмы/станции.py",
+		"//alphas/DISP/Остапченко/python/Грокаем Алгоритмы/рюкзак.py",
+		"/C/Users/Disp.Smen/Desktop/приложение 4(сигналы).docx",
+		"//alphas/DISP/Остапченко/python/test/interesting.py",
+		"/C/Users/Disp.Smen/Downloads/Dijkstra.py",
+		"//alphas/DISP/Остапченко/python/test/decorator.py",
+		"//alphas/DISP/Остапченко/python/test/yield.py",
+		"//alphas/DISP/Остапченко/python/Грокаем Алгоритмы/станции",
+		"//alphas/DISP/Остапченко/python/test/matplotlib_img.py",
+		"/C/Users/Disp.Smen/Desktop/отчёт.py",
+		"/C/BI/sentences/index.py",
+		"/C/BI/net/class_net.py",
+		"//alphas/DISP/Остапченко/python/test/простые  числа.py",
+		"//alphas/DISP/Остапченко/python/test/простые  числа",
+		"/C/BI/net/a7.py",
+		"//alphas/DISP/Остапченко/python/sentences/index.py",
+		"//alphas/DISP/Остапченко/python/test/time5.py",
+		"//alphas/DISP/Остапченко/python/test/moro.py",
+		"//alphas/DISP/Остапченко/python/net/test_net.py",
+		"//alphas/DISP/Остапченко/python/net/test_net2.py",
+		"/C/BI/net/img_to_list.py",
+		"//alphas/DISP/Остапченко/python/test/import telebot.py",
+		"//alphas/DISP/Остапченко/python/net/class_net.py",
+		"//alphas/DISP/Остапченко/python/net/a7.py",
+		"//alphas/DISP/Остапченко/python/net/net1.py",
+		"//alphas/DISP/Остапченко/python/test/test_net.py",
+		"//alphas/DISP/Остапченко/python/test/class_net.py",
+		"//alphas/DISP/Остапченко/python/NumPy/main.py",
+		"//alphas/DISP/Остапченко/python/NumPy/numpy2.py",
+		"//alphas/DISP/Остапченко/python/test/data.txt",
+		"//alphas/DISP/Остапченко/Новый текстовый документ.py",
+		"/C/Users/Disp.Smen/Desktop/Новый текстовый документ.py",
+		"//alphas/DISP/Остапченко/python/test/sigma.py",
+		"//alphas/DISP/Остапченко/python/test/matrix_net.py",
+		"//alphas/DISP/Остапченко/python/test/classDog.py",
+		"//alphas/DISP/Остапченко/python/test/net3.py",
+		"//alphas/DISP/Остапченко/python/test/fun1.py",
+		"//alphas/DISP/Остапченко/python/test/net2.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Open_Py_from_XL.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
