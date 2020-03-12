@@ -50,7 +50,7 @@ pefile==2017.11.5
 Pillow==5.2.0
 progressbar==2.5
 protobuf==3.6.1
-psutil==5.4.8
+psutil==5.6.6
 pyasn1==0.4.4
 PyAutoGUI==0.9.41
 pycparser==2.19
