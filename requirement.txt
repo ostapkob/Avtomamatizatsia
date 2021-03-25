@@ -76,7 +76,7 @@ pytz==2018.9
 pywin32==224
 pywin32-ctypes==0.2.0
 pyxlsb==1.0.4
-PyYAML==3.13
+PyYAML==5.4
 pyzmail36==1.0.4
 requests==2.21.0
 requests-cache==0.4.13

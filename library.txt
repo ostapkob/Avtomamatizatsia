@@ -74,7 +74,7 @@ PyTweening==1.0.3
 pytz==2018.3
 pywin32==223
 pyxlsb==1.0.4
-PyYAML==3.13
+PyYAML==5.4
 requests==2.18.4
 requests-cache==0.4.13
 rsa==3.4.2
