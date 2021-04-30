@@ -77,7 +77,7 @@ pyxlsb==1.0.4
 PyYAML==3.13
 requests==2.18.4
 requests-cache==0.4.13
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.1.13
 scipy==1.1.0
 selenium==3.11.0
