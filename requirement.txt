@@ -43,7 +43,7 @@ matplotlib==3.0.2
 mtranslate==1.6
 mysql-connector-python==8.0.15
 networkx==2.2
-numpy==1.16.1
+numpy==1.22.0
 openpyxl==2.6.0
 pandas==0.24.1
 paramiko==2.4.2
